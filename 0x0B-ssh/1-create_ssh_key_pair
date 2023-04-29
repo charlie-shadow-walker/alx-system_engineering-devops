@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# a script to generate a ssh key and save it using the parsephrase school
+ssh-keygen -t rsa -b 4096 -f school -N betty
+

@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# bash script to log into ubuntu using the file school
+ssh -i ~/.ssh/school ubuntu@100.26.167.52
